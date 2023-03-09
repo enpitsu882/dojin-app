@@ -1,0 +1,16 @@
+{
+  "name": "dojin-app",
+  "version": "0.0.1",
+  "description": "同人サークル向けアプリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "git@github.com:enpitsu882/dojin-app.git",
+  "author": "enpitsu882",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
